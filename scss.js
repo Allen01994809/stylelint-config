@@ -9,7 +9,8 @@ module.exports = {
     // プロパティの記述順に関するルール
     "stylelint-config-recess-order",
     // 一般的なルール
-    "stylelint-config-standard",
+    "stylelint-config-standard-scss",
+    "stylelint-config-prettier-scss",
     // prettierと連携するためのルール
     "stylelint-prettier/recommended",
     // prettier設定と重複するルールを打ち消すルール
