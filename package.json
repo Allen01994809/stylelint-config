@@ -1,0 +1,6 @@
+{
+  "name": "@allen-packages/stylelint-config",
+  "version": "0.0.6",
+  "type": "commonjs",
+  "main": "./index.js"
+}
